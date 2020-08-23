@@ -1,0 +1,94 @@
+Query,Rank,Product,Product_Rating,is_BestSeller,is_BestValue,is_Trending,is_Ad,is_FAssured,No_of_Ratings_and_Reviews,Seller_Name,Seller_Rating,Seller_Since,Seller_Product_Quality,Seller_Service_Quality
+refrigerator,1,"Samsung 192 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Saffron Blue, RR20T182XU8/HL)",4.5,True,False,False,False,True,"29,869 Ratings & 3,932 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,2,"Samsung 192 L Direct Cool Single Door 2 Star (2020) Refrigerator  (Elective Silver, RR19T241BSE/NL)",4.4,False,False,False,False,True,"7,554 Ratings & 769 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,3,"Samsung 198 L Direct Cool Single Door 5 Star (2020) Refrigerator with Base Drawer  (Camellia Blue, RR21T2H2WCU/HL)",4.5,False,False,False,False,True,"2,762 Ratings & 422 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,4,"LG 260 L Frost Free Double Door 2 Star (2020) Refrigerator  (Dazzle Steel, GL-N292RDSY)",4.5,False,False,False,True,True,227 Ratings & 20 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,5,"Samsung 253 L Frost Free Double Door 3 Star (2020) Refrigerator  (Elegant Inox, RT28T3483S8/HL)",4.3,False,False,False,False,True,"3,732 Ratings & 479 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,6,"Whirlpool 265 L Frost Free Double Door 3 Star (2020) Convertible Refrigerator  (Magnum Steel, IF INV CNV 278 MAGNUM STEEL (3S)-N)",4.2,False,False,False,False,True,"7,180 Ratings & 848 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,7,"Haier 195 L Direct Cool Single Door 4 Star (2020) Refrigerator  (DAZZEL STEEL, HED-20CFDS)",4.4,False,False,False,False,True,"4,643 Ratings & 579 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,8,"Samsung 192 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Saffron Red, RR20T182XR8/HL)",4.5,False,False,False,False,True,"29,869 Ratings & 3,932 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,9,"LG 190 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Blue Plumeria, GL-D201ABPY)",4.4,False,False,False,False,True,"9,374 Ratings & 1,045 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,10,"Whirlpool 240 L Frost Free Triple Door Refrigerator  (Magnum Steel, FP 263D PROTTON ROY MAGNUM STEEL(N))",4.4,False,False,False,False,True,"8,537 Ratings & 1,161 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,11,"Whirlpool 190 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Sapphire Radiance, WDE 205 ROY 4S INV SAPPHIRE RADIANCE)",4.3,False,False,False,False,True,"33,656 Ratings & 3,834 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,12,"Whirlpool 190 L Direct Cool Single Door 2 Star (2020) Refrigerator  (solid blue, WDE 205 CLS 2S BLUE)",4.3,False,False,False,False,True,"33,675 Ratings & 3,963 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,13,"Samsung 253 L Frost Free Double Door 2 Star (2020) Refrigerator  (Elective Silver, RT28T3032SE/HL)",4.4,False,False,False,False,True,"4,320 Ratings & 511 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,14,"LG 420 L Frost Free Double Door 3 Star (2020) Refrigerator  (Shiny Steel, GL-I472QPZX)",4.5,False,False,False,True,True,381 Ratings & 46 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,15,"LG 190 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Scarlet Plumeria, GL-B201ASPY)",4.4,False,False,False,False,True,"9,374 Ratings & 1,045 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,16,"Samsung 192 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Saffron Red, RR20T1Y2XR8/HL)",4.4,False,False,False,False,True,"4,516 Ratings & 500 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,17,"LG 260 L Frost Free Double Door 3 Star (2020) Refrigerator  (Shiny Steel, GL-I292RPZL)",4.4,False,False,False,False,True,"10,433 Ratings & 1,398 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,18,"Samsung 253 L Frost Free Double Door 3 Star (2020) Convertible Refrigerator  (Elegant Inox, RT28T3743S8/HL)",4.3,False,False,False,False,True,"3,732 Ratings & 479 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,19,"Haier 190 L Direct Cool Single Door 2 Star (2020) Refrigerator  (Moon Silver, HED-19TMS)",4.3,False,False,False,False,True,236 Ratings & 28 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,20,"LG 215 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Amber Steel, GL-B221AASY)",4.4,False,False,False,True,True,172 Ratings & 20 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,21,"MarQ by Flipkart 560 L Frost Free Side by Side Refrigerator with Water Dispenser  (Silver, Grey, SBS-560W)",4.5,False,False,False,False,True,"1,529 Ratings & 257 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,22,"Whirlpool 215 L Direct Cool Single Door 5 Star (2020) Refrigerator with Base Drawer  (Sapphire Abyss, 230 IM PRO ROY 5S INV SAPPHIRE ABYSS)",5.0,False,False,False,False,True,4 Ratings & 0 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,23,"Samsung 230 L Direct Cool Single Door 3 Star (2020) Refrigerator with Base Drawer  (Camellia Purple, RR24T285YCR/NL)",4.4,False,False,False,False,True,529 Ratings & 85 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,24,"LG 215 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Purple Glow, GL-B221APGY)",4.4,False,False,False,True,True,"2,286 Ratings & 262 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,25,"Haier 258 L Frost Free Double Door 3 Star (2020) Convertible Refrigerator  (Dazzle Steel, HEF-25TDS)",4.3,False,False,False,False,True,298 Ratings & 36 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,26,"Whirlpool 190 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Sapphire Abyss, 205 IMPC PRM 4S INV Sapphire Abyss)",4.3,False,False,False,False,True,25 Ratings & 2 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,27,"Whirlpool 190 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Sapphire Abyss, 205 IMPC ROY 4S INV Sapphire Abyss)",4.4,False,False,False,False,True,44 Ratings & 7 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,28,"LG 260 L Frost Free Double Door 2 Star (2020) Refrigerator  (Dazzle Steel, GL-N292RDSY)",4.5,False,False,False,True,True,227 Ratings & 20 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,29,"Whirlpool 215 L Direct Cool Single Door 5 Star (2020) Refrigerator  (Sapphire Abyss, 230 IM PRO 5s PRM INV SAPPHIRE ABYSS)",4.5,False,False,False,False,True,115 Ratings & 19 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,30,"Whirlpool 190 L Direct Cool Single Door 2 Star (2020) Refrigerator  (Sapphire Fiesta, WDE 205 CLS PLUS 2S SAPPHIRE FIESTA)",4.3,False,False,False,False,True,"33,656 Ratings & 3,834 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,31,"Whirlpool 300 L Frost Free Triple Door Refrigerator  (Alpha Steel (N), FP 313D PROTTON ROY)",4.4,False,False,False,False,True,"9,610 Ratings & 1,585 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,32,"Samsung 657 L Frost Free Side by Side Refrigerator  (Gentle Black Matt, RS74T5F01B4/TL)",,False,False,False,True,True,nan,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,33,"Samsung 212 L Direct Cool Single Door 3 Star (2020) Refrigerator  (Elegant Inox, RR22T272YS8/NL)",4.3,False,False,False,False,True,"7,481 Ratings & 1,103 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,34,"Samsung 192 L Direct Cool Single Door 2 Star (2020) Refrigerator with Base Drawer  (Saffron Red, RR19T282BR8/NL)",4.3,False,False,False,False,True,"2,293 Ratings & 247 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,35,"Whirlpool 190 L Direct Cool Single Door 3 Star (2020) Refrigerator  (Solid blue, WDE 205 CLS 3S BLUE)",4.3,False,False,False,False,True,"33,676 Ratings & 3,963 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,36,"LG 420 L Frost Free Double Door 3 Star (2020) Refrigerator  (Shiny Steel, GL-I472QPZX)",4.5,False,False,False,True,True,381 Ratings & 46 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,37,"Whirlpool 265 L Frost Free Double Door 3 Star (2020) Convertible Refrigerator  (Argyle Black, IF INV CNV 278 ARGYLE BLACK (3S)-N)",4.2,False,False,False,False,True,"7,182 Ratings & 848 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,38,"Samsung 253 L Frost Free Double Door 2 Star (2020) Convertible Refrigerator  (Pebble Blue, RT28T3782UT/HL)",4.4,False,False,False,False,True,785 Ratings & 81 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,39,"Whirlpool 265 L Frost Free Double Door 2 Star (2020) Refrigerator with Glass Door  (Crystal Black, Neo 278GD PRM Crystal Black (2S)-N)",4.3,False,False,False,False,True,152 Ratings & 24 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,40,"LG 215 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Amber Steel, GL-B221AASY)",4.4,False,False,False,True,True,172 Ratings & 20 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,41,"Samsung 192 L Direct Cool Single Door 2 Star (2020) Refrigerator  (Star Flower Red, RR19T271BR2/NL)",4.3,False,False,False,False,True,"6,298 Ratings & 662 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,42,"Samsung 192 L Direct Cool Single Door 3 Star (2020) Refrigerator  (Star Flower Blue, RR20T172YU2/HL)",4.4,False,False,False,False,True,"1,832 Ratings & 236 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,43,"LG 235 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Blue Charm, GL-D241ABCY)",4.4,False,False,False,False,True,"2,286 Ratings & 262 Reviews",OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,44,"LG 215 L Direct Cool Single Door 4 Star (2020) Refrigerator  (Purple Glow, GL-B221APGY)",4.4,False,False,False,True,True,"2,286 Ratings & 262 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,45,"Samsung 253 L Frost Free Double Door 2 Star (2020) Convertible Refrigerator  (Saffron Red, RT28T3922R8/HL)",4.4,False,False,False,False,True,785 Ratings & 81 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,46,"Haier 195 L Direct Cool Single Door 4 Star (2020) Refrigerator with Base Drawer  (Black Blossom, HRD-1954PKB-E)",4.4,False,False,False,False,True,873 Ratings & 125 Reviews,OmniTechRetail.,4.1,4 years 0 months,3.2,5.0
+refrigerator,47,"Whirlpool 260 L Frost Free Triple Door Refrigerator  (Alpha Steel (N), FP 283D PROTTON ROY ALPHA STEEL (N))",4.4,False,False,False,False,True,"9,610 Ratings & 1,585 Reviews",RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+refrigerator,48,"LG 270 L Direct Cool Single Door 3 Star (2020) Refrigerator  (Shiny Steel, GL-B281BPZX)",4.3,False,False,False,True,True,491 Ratings & 62 Reviews,RAMTHRALLA Retail.,4.1,4 months,3.1,5.0
+shoes,1,Combo pack of 3 Men Sports & Running Sports Shoes Walking Shoes For Men  (Multicolor),3.7,False,False,False,True,False,256 ratings and 36 reviews,Volve.,3.3,11 months,3.0,3.6
+shoes,2,Zion -1 Spikes Running Shoes For Men  (Multicolor),4.0,False,False,False,True,True,"3,904 ratings and 556 reviews",RetailNet.,4.5,4 years 5 months,4.0,5.0
+shoes,3,Lightweight Gymwear Sport Running Shoes For Men Walking Shoes For Men  (Black),3.8,False,False,False,False,True,"2,483 ratings and 271 reviews",Digitrendzz.,3.7,2 years 11 months,2.8,4.7
+shoes,4,Running Shoes For Men  (Black),3.7,False,False,True,False,True,"11,177 ratings and 1,383 reviews",MilesWalker.,3.7,2 years 5 months,2.6,4.7
+shoes,5,Walking Shoes For Men  (Orange),4.2,False,False,False,False,True,764 ratings and 103 reviews,LAYASA .,3.9,4 years 11 months,2.9,5.0
+shoes,6,"WNDR-13 Running Shoes For Men  (Green, Grey)",4.1,False,False,False,False,True,"2,21,947 ratings and 35,503 reviews",Asianshoe.,4.1,5 years 5 months,3.6,4.5
+shoes,7,Running Shoes For Men  (Grey),3.6,False,False,False,False,True,"11,489 ratings and 1,478 reviews",OnlineBasket.,3.6,3 years 4 months,2.7,4.6
+shoes,8,"Mesh Running Shoes ,Cricket Shoes Running Shoes For Men (Black) Walking Shoes For Men  (Black)",3.7,False,False,False,False,True,"36,017 ratings and 4,714 reviews",MilesWalker.,3.7,2 years 5 months,2.6,4.7
+shoes,9,Running Shoes For Men  (Orange),4.1,False,False,False,False,True,"12,061 ratings and 1,770 reviews",DadwaniFootwear.,4.6,2 years 6 months,4.1,5.0
+shoes,10,"445 Sports Shoes (Walking & Gym Shoes) Running Shoes For Men  (White, Blue)",3.8,False,False,False,False,True,"21,875 ratings and 2,603 reviews",Pexlo.,4.2,4 years 7 months,3.3,5.0
+shoes,11,Combo Pack of 4 Casual Sneakers With Sneakers For Men  (Multicolor),4.1,False,False,False,False,True,"8,381 ratings and 1,168 reviews",SuperZone,0.4,5 years 2 months,3.0,4.9
+shoes,12,Combo Pack of 3 Casual Slip On Sneakers For Men  (Blue),3.8,False,False,False,False,True,"46,703 ratings and 6,114 reviews",SuperZone,0.4,5 years 2 months,3.0,4.9
+shoes,13,Sneakers For Men  (Red),4.0,False,False,False,False,False,509 ratings and 48 reviews,HotstyleProducts.,4.1,3 years 4 months,3.3,4.9
+shoes,14,"Casual Party Wear New Stylish Canvas Shoes For Mens And Boys For Men  (Orange, Black)",4.0,False,False,False,True,True,"10,775 ratings and 1,740 reviews",SUHANEYSHOES.,4.1,4 years 10 months,3.1,5.0
+shoes,15,Casual shoes Sneakers For Men  (Grey),3.9,False,False,False,False,True,"31,016 ratings and 4,351 reviews",Digitrendzz.,3.7,,,
+shoes,16,"Casual , Partywear Sneakers Shoes For Men's And Boys White Color Sneakers For Men  (White)",4.0,False,False,False,False,True,"42,220 ratings and 6,022 reviews",DICY.,4.6,3 years 5 months,4.1,5.0
+shoes,17,Perfect Stylish Girls Casual Shoes Sneakers For Women  (Pink),4.2,False,False,False,False,True,"3,039 ratings and 468 reviews",Uppercircuit.,4.5,2 years 5 months,4.1,4.9
+shoes,18,Running Shoes For Men  (Black),3.8,False,False,False,False,True,"8,430 ratings and 1,018 reviews",AADISHOES,0.4,4 years 10 months,3.0,5.0
+shoes,19,Walking shoes Running Shoes For Men  (Black),3.8,False,False,False,False,False,"1,739 ratings and 215 reviews",ONLINETRUSTEDSELLER.,3.7,1 year 4 months,2.4,5.0
+shoes,20,"Men SM-482 Navy Blue Neon Orange Running Shoes For Men  (Navy, Orange)",4.2,False,False,False,True,False,"6,747 ratings and 912 reviews",VirajEnt.,4.4,5 years 0 months,3.8,5.0
+shoes,21,Running Shoes For Men  (Grey),3.6,False,False,False,False,False,"11,489 ratings and 1,479 reviews",SD ENTERPRISE.,3.8,1 year 11 months,2.9,4.7
+shoes,22,Walking Shoes For Men  (Green),4.2,False,False,False,False,True,764 ratings and 103 reviews,luka modric .,4.4,4 years 1 month,4.1,4.7
+shoes,23,"Cosco Running Shoes For Men  (Navy, Blue)",4.0,False,False,False,False,True,"81,072 ratings and 12,089 reviews",Asianshoe.,4.1,5 years 5 months,3.6,4.5
+shoes,24,Encounter 3.0 Football Shoes For Men  (Yellow),4.2,False,False,False,True,True,"1,981 ratings and 285 reviews",RetailNet.,4.5,4 years 5 months,4.0,5.0
+shoes,25,"Combo Pack of 2 Latest Collection Stylish casual Sports Running Shoes Walking Shoes For Men  (Black, Grey)",3.6,False,False,False,False,True,"3,003 ratings and 374 reviews",AXTER.,3.7,4 years 0 months,2.6,4.7
+shoes,26,"Running Shoes For Men  (Black, White)",3.7,False,False,False,False,True,630 ratings and 66 reviews,DealsyouFootwear.,43.4,3 years 2 months,2.1,4.7
+shoes,27,"Mesh,Cricket, Badminton, Volly Ball, Sports Running Shoes For Men  (Red)",3.8,False,False,False,False,True,"81,726 ratings and 10,481 reviews",LAYASA .,3.9,4 years 11 months,2.9,5.0
+shoes,28,"Designer Loafers For Men  (Brown, Blue)",4.0,False,False,False,True,True,"2,989 ratings and 315 reviews",HotstyleProducts.,4.1,3 years 4 months,3.3,4.9
+shoes,29,Combo Pack of 3 Casual Shoes For Men  (Navy),3.8,False,False,False,False,False,141 ratings and 22 reviews,Volve.,3.3,11 months,3.0,3.6
+shoes,30,Combo Pack of 5 Casual Sneakers With Sneakers For Men  (Multicolor),4.0,False,False,False,False,True,"43,859 ratings and 6,061 reviews",SuperZone,0.4,5 years 2 months,3.0,4.9
+shoes,31,"Combo Pack of 2 Casual Shoes (Loafers Shoes) Slip On Sneakers For Men  (Navy, Blue)",3.8,False,False,False,False,True,"36,055 ratings and 4,560 reviews",SuperZone,0.4,5 years 2 months,3.0,4.9
+shoes,32,Revolution 4 Running Shoes For Women  (Black),4.3,False,False,False,True,True,255 ratings and 24 reviews,RetailNet.,4.5,4 years 5 months,4.0,5.0
+shoes,33,"Pack of 02 Pairs Running Shoes Running Shoes For Men  (Blue, Grey)",3.6,False,False,False,False,True,"1,675 ratings and 229 reviews",SuperZone,0.4,5 years 2 months,3.0,4.9
+shoes,34,Combo Pack Of 2 Casual Shoes Slip On Sneakers For Men  (Multicolor),3.8,False,False,False,False,True,"14,986 ratings and 2,019 reviews",SALEMARTINDIA,0.4,4 years 3 months,3.0,5.0
+shoes,35,Walking Shoes For Women  (Grey),4.2,False,False,False,False,True,"1,019 ratings and 183 reviews",MAHAVEER OVERSEAS.,3.4,,,
+shoes,36,Pro Encounter 4 Football Shoes For Men  (Orange),4.0,False,False,False,True,True,"1,551 ratings and 180 reviews",RetailNet.,4.5,4 years 5 months,4.0,5.0
+shoes,37,Lace Up For Men  (Black),4.0,False,False,False,False,True,201 ratings and 41 reviews,MACTREE.,3.6,5 years 7 months,2.3,4.8
+shoes,38,Running Shoes For Men  (Black),3.5,False,False,False,False,True,288 ratings and 24 reviews,Gudu.,3.7,2 years 7 months,2.7,4.6
+shoes,39,Combo pack of 2 Men Sports & Running Sports Shoes Walking Shoes For Men  (Multicolor),3.8,False,False,False,False,True,"4,007 ratings and 535 reviews",BERSACHE.,3.5,4 years 11 months,2.4,4.6
+shoes,40,Sneakers For Men  (Black),3.9,False,False,False,True,True,192 ratings and 26 reviews,RED ROSE ENTERPRISES.,3.6,3 years 10 months,2.4,4.9
+shoes,41,Men's CASUAL Shoes Fashion Breathable Sneakers Sneakers For Men  (Black),3.7,False,False,False,False,True,"2,110 ratings and 241 reviews",,,,,
+shoes,42,"Elasto-02 Navy Maroon Running Shoes For Women  (Navy, Maroon)",4.2,False,False,False,False,True,"15,974 ratings and 2,326 reviews",Asianshoe.,4.1,5 years 5 months,3.6,4.5
+shoes,43,Walking Shoes For Men  (Blue),4.3,False,False,False,False,True,20 ratings and 5 reviews,Jugmugshoes.,4.1,5 years 8 months,3.1,5.0
+shoes,44,SOCKS Running Shoes For Men  (Grey),4.1,False,False,False,False,True,"50,765 ratings and 7,514 reviews",Density.,4.3,4 years 1 month,3.6,4.9
+shoes,45,Walking Shoes For Men  (Orange),3.7,False,False,False,False,True,871 ratings and 117 reviews,OnlineBasket.,3.6,3 years 4 months,2.7,4.6
